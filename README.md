@@ -23,4 +23,4 @@ Here are some ideas to get you started:
   <img alt="Snake animation"
     src="https://raw.githubusercontent.com/Tesz13/Tesz13/output/github-snake.svg" />
 </picture>
-<img src="https://raw.githubusercontent.com/Tesz13/Tesz13/output/custom.svg" />
+<img src="https://raw.githubusercontent.com/Tesz13/Tesz13/output/snake.svg" />
