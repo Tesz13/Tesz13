@@ -21,6 +21,6 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Tesz13/Tesz13/output/github-snake-dark.svg" />
   <img alt="Snake animation"
-    src="https://raw.githubusercontent.com/Tesz13/Tesz13/output/github-snake.svg"?v=2 />
+    src="https://raw.githubusercontent.com/Tesz13/Tesz13/output/github-snake.svg" />
 </picture>
 
