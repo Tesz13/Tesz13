@@ -15,7 +15,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/fire.svg?color_snake=orange&color_dots=lightyellow,orange,darkorange,red,darkred
+            dist/test.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
