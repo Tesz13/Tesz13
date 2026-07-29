@@ -1,153 +1,152 @@
-<h1 align="center">Hi 👋☺️, I'm Thanvi yadav Sirla</h1>
-<h3 align="center">Software Engineer | Django · FastAPI · React | Backend, Cloud & ML</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tesz13" alt="tesz13" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=200&section=header&text=Thanvi%20Yadav&fontSize=60&fontColor=fff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Infrastructure%20%7C%20Distributed%20Systems&descAlignY=58&descSize=18&animation=twinkling"/>
 
-- 📫 How to reach me **thanvys13@gmail.com**
+</div>
 
-- ⚡ Fun fact **I am multilingual but for machines ;)**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thanvi sirla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanvi sirla" height="30" width="40" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=Building+production+AI+systems+that+scale;LangGraph+%C2%B7+RAG+%C2%B7+Multi-Agent+%C2%B7+Distributed+Systems;Python+%C2%B7+Go+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+AWS)](https://git.io/typing-svg)
 
-<h3 align="left">Languages and Tools:</h3>
+</div>
 
-<p align="left">
+<br/>
 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="AWS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="28" height="28"/>
-  </a> 
+<div align="center">
 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" title="Azure">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="28" height="28"/>
-  </a> 
+[![Email](https://img.shields.io/badge/thanvys13@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thanvys13@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/thanvys-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thanvys)
+[![GitHub](https://img.shields.io/badge/github.com/tesz13-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tesz13)
+![Profile Views](https://komarev.com/ghpvc/?username=tesz13&color=7C3AED&style=flat-square&label=profile+views)
 
-  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer" title="Cassandra">
-    <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="28" height="28"/>
-  </a>
+</div>
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28"/>
-  </a>
+---
 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="28" height="28"/>
-  </a>
+## `$ whoami`
 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="28" height="28"/>
-  </a>
+```python
+class ThanviYadav:
+    def __init__(self):
+        self.role       = "Software Engineer"
+        self.location   = "Seattle, WA"
+        self.education  = "M.S. Computer Science — University of Washington Tacoma (Dec 2025)"
+        self.focus      = ["AI Infrastructure", "Distributed Systems", "Agentic AI", "Backend Engineering"]
+        self.building   = "Production-grade LLM systems, RAG pipelines & scalable cloud-native platforms"
+        self.current    = ["Distributed KV Store in Go", "Open-source LLM Eval Framework", "AWS ML Cert"]
 
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer" title="Elasticsearch">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="28" height="28"/>
-  </a>
+    def __str__(self):
+        return "Engineer who builds things that scale and ships things that matter"
+```
 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="28" height="28"/>
-  </a>
+---
 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title="Flask">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="28" height="28"/>
-  </a>
+## ⚡ What I Build
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="28" height="28"/>
-  </a>
+<table>
+<tr>
+<td width="50%">
 
-  <a href="https://golang.org" target="_blank" rel="noreferrer" title="Go">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="28" height="28"/>
-  </a>
+**🤖 Agentic AI Systems**
+- Multi-agent orchestration with LangGraph
+- RAG pipelines (ingestion → retrieval → generation)
+- MCP integrations and tool schemas
+- LLM evaluation frameworks with LLM-as-Judge
+- Production Claude & OpenAI API integrations
 
-  <a href="https://graphql.org" target="_blank" rel="noreferrer" title="GraphQL">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="28" height="28"/>
-  </a>
+</td>
+<td width="50%">
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="28" height="28"/>
-  </a>
+**⚙️ Backend & Distributed Systems**
+- Scalable microservices in Go, Python, Java
+- Event-driven architectures with Kafka & SQS
+- Distributed storage with WAL & Raft consensus
+- REST & GraphQL APIs at production scale
+- Cloud-native on AWS, GCP, Azure + Kubernetes
 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer" title="Jenkins">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="28" height="28"/>
-  </a>
+</td>
+</tr>
+</table>
 
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" title="Kafka">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="28" height="28"/>
-  </a>
+---
 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="28" height="28"/>
-  </a>
+## 🛠 Tech Stack
 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" title="MATLAB">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="28" height="28"/>
-  </a>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" title="MSSQL">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="28" height="28"/>
-  </a>
+### AI & LLM Infrastructure
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Claude API](https://img.shields.io/badge/Anthropic_Claude-7C3AED?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="28" height="28"/>
-  </a>
+### Backend & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="28" height="28"/>
-  </a>
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="28" height="28"/>
-  </a>
+### Databases & Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="28" height="28"/>
-  </a>
+---
 
-  <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="28" height="28"/>
-  </a>
+## 📈 GitHub Stats
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="28" height="28"/>
-  </a>
+<div align="center">
 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" title="PyTorch">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="28" height="28"/>
-  </a>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=tesz13&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tesz13&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"/>
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="28" height="28"/>
-  </a>
+</div>
 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" title="Scikit-Learn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="28" height="28"/>
-  </a>
+<div align="center">
 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" title="TensorFlow">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="28" height="28"/>
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tesz13&theme=midnight-purple&hide_border=true"/>
 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="28" height="28"/>
-  </a>
+</div>
 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" title="Adobe XD">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="28" height="28"/>
-  </a>
+---
 
-  <a href="https://zapier.com" target="_blank" rel="noreferrer" title="Zapier">
-    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="28" height="28"/>
-  </a>
+## 🐍 Contribution Graph
 
-</p>
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/tesz13/tesz13/output/github-contribution-grid-snake.svg"/>
 
-<!-- Light mode -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Tesz13/Tesz13/output/github-snake-dark.svg" />
-  <img alt="Snake animation"
-    src="https://raw.githubusercontent.com/Tesz13/Tesz13/output/github-snake.svg" />
-</picture>
+</div>
 
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=100&section=footer"/>
+
+</div>
